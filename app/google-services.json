@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "520936756220",
+    "project_id": "mivina-mod",
+    "storage_bucket": "mivina-mod.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520936756220:android:e3eb5e6886a89cd8fed879",
+        "android_client_info": {
+          "package_name": "Mivinacheats.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrFC-BRPWLMEftnMxQ3vdnelyc4LzAQ88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520936756220:android:586f6057be3f924bfed879",
+        "android_client_info": {
+          "package_name": "com.mivinamod.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrFC-BRPWLMEftnMxQ3vdnelyc4LzAQ88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
